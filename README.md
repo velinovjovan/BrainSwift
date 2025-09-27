@@ -19,7 +19,7 @@ To run BrainSwift locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jowwan/BrainSwift.git
+   git clone https://github.com/velinovjovan/BrainSwift.git
    ```
 2. Navigate to the project directory:
    ```bash
