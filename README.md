@@ -39,4 +39,4 @@ To run BrainSwift locally, follow these steps:
 
 ## Acknowledgments
 
-Thank you for trying BrainSwift! We hope it challenges you to perform at your best and provides a fun way to track your progress. 🌟
+Thank you for trying BrainSwift! We hope it challenges you to perform at your best and provides a fun way to track your progress. 
