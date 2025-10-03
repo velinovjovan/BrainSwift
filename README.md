@@ -1,4 +1,4 @@
-# [BrainSwift](https://brainswift.vercel.app)
+# 🧠[BrainSwift](https://brainswift.vercel.app)
 
 **BrainSwift** is an interactive platform designed to test and improve cognitive and physical performance through engaging games and challenges. Whether you're looking to sharpen your reflexes, boost memory, or test your reaction time, BrainSwift offers a variety of games to track and enhance your performance over time.
 
