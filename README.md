@@ -1,10 +1,16 @@
-# 🧠 [BrainSwift](https://brainswift.vercel.app)
+# BrainSwift 🧠
 
 **BrainSwift** is an interactive platform designed to test and improve cognitive and physical performance through engaging games and challenges. Whether you're looking to sharpen your reflexes, boost memory, or test your reaction time, BrainSwift offers a variety of games to track and enhance your performance over time.
 
 ---
 
-## How to Use
+## 🌐 Live Demo
+
+Explore the website [here](https://brainswift.vercel.app)
+
+---
+
+## ✅ How to Use
 
 1. **Start Playing**: Open the application in your web browser.
 2. **Choose a Game**: Select from various challenges designed to test specific skills.
@@ -13,7 +19,7 @@
 
 ---
 
-## Installation
+## 🚀 Getting Started
 
 To run BrainSwift locally, follow these steps:
 
@@ -29,7 +35,7 @@ To run BrainSwift locally, follow these steps:
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **HTML**: Provides the structure of the application.
 - **CSS**: Styles the games and user interface for an engaging experience.
@@ -37,6 +43,6 @@ To run BrainSwift locally, follow these steps:
 
 ---
 
-## Acknowledgments
+## 🤓 Acknowledgments
 
 Thank you for trying BrainSwift! We hope it challenges you to perform at your best and provides a fun way to track your progress. 🌟
