@@ -4,12 +4,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-Explore the website [here](https://brainswift.vercel.app)
-
----
-
 ## ✅ How to Use
 
 1. **Start Playing**: Open the application in your web browser.
